@@ -25,3 +25,13 @@ airflow/logs/
 # OS Files
 .DS_Store
 Thumbs.db
+
+# Data Files
+data/raw/kaggle/
+data/processed/
+
+# Keep only sample data
+!data/sample_data/
+
+# Power BI Auto Backups
+*.pbix.autosave
