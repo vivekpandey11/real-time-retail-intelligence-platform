@@ -1,0 +1,12 @@
+[
+  {
+    "order_id": 1,
+    "product": "Laptop",
+    "amount": 50000
+  },
+  {
+    "order_id": 2,
+    "product": "Mobile",
+    "amount": 25000
+  }
+]

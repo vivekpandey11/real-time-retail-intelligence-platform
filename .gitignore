@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+
+# dbt
+dbt/retail_dbt/target/
+
+# Logs
+logs/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML Models
+*.pkl
+
+# Airflow
+airflow/logs/
+
+# OS Files
+.DS_Store
+Thumbs.db

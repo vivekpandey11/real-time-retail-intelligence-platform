@@ -1,0 +1,12 @@
+pandas
+numpy
+sqlalchemy
+psycopg2-binary
+snowflake-connector-python
+scikit-learn
+joblib
+kafka-python
+apache-airflow
+openpyxl
+dbt-core
+dbt-postgres
