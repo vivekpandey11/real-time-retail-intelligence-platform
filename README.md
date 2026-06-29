@@ -212,7 +212,7 @@ Real-Time Retail Intelligence Platform/
 
 ## Dashboard Preview
 
-![Dashboard](assets/dashboard_screenshot.png)
+![Dashboard](https://github.com/vivekpandey11/real-time-retail-intelligence-platform/blob/main/dashboard.jpeg?raw=true)
 
 
 ## Insights
@@ -278,6 +278,6 @@ Fraud Transaction Detected
 
 **Vivek Pandey**
 
-B.Tech Artificial Intelligence & Machine Learning
+B.Tech Electronics & Communication
 
 Data Engineering • Analytics • Machine Learning
